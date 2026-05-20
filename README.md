@@ -127,25 +127,27 @@ The proposed framework improves:
 
 while maintaining visually natural outputs.
 
-### Quantitative Results
 
-- Mean L1 Loss: 0.05644
-- Mean PSNR: 22.79 dB
 
 ---
+
+
 
 ## Sample Results
 
 ### Enhancement Examples
 
-| Original vs Enhanced |
-|---|
-| ![](results/result1.png) |
-| ![](results/result2.png) |
-| ![](results/result3.png) |
-| ![](results/result4.png) |
-| ![](results/result5.png) |
-| ![](results/result6.png) |
+![Result 1](./results/results1.jpeg)
+
+![Result 2](./results/results2.jpeg)
+
+![Result 3](./results/results3.jpeg)
+
+![Result 4](./results/results4.jpeg)
+
+![Result 5](./results/results5.jpeg)
+
+![Result 6](./results/results6.jpeg)
 
 ---
 
